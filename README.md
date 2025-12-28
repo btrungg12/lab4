@@ -37,7 +37,7 @@ If you want to run this project on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/blog-dash-lab4.git](https://github.com/YOUR_USERNAME/blog-dash-lab4.git)
+    git clone [https://github.com/btrungg12/lab4](https://github.com/btrungg12/lab4)
     cd blog-dash-lab4
     ```
 
